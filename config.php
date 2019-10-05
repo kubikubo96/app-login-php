@@ -4,8 +4,8 @@
  * Khai báo hằng số dùng để kết nối đến CSDL
  */
 define("DB_SERVER", "us-cdbr-iron-east-05.cleardb.net");
-define("DB_SERVER_USERNAME", "bd910bb52ff3e1");
-define("DB_SERVER_PASSWORD", "9a702567");
+define("DB_SERVER_USERNAME", "b00cfe155177a2");
+define("DB_SERVER_PASSWORD", "e0008ef1");
 define("DB_SERVER_NAME", "heroku_d3411b8e0a33943");
 
 /**
