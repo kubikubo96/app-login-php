@@ -6,7 +6,7 @@
 define("DB_SERVER", "localhost");
 define("DB_SERVER_USERNAME", "root");
 define("DB_SERVER_PASSWORD", "");
-define("DB_SERVER_NAME", "heroku_10f32ee95bf4676");
+define("DB_SERVER_NAME", "heroku_0cbe89d374a6f92");
 
 /**
  * mysqli_connect() kết nối đến CSDL
